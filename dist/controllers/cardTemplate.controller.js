@@ -3,9 +3,9 @@ export class CardTemplateController {
         this.containerBooks = containerBooks;
     }
     //funcion para crear una card de libro
-    render(id, author, title, description, summary, publicationDate) {
+    render(id, title, author, description, summary, publicationDate) {
         const figure = document.createElement('figure');
-        figure.classList.add('card', 'card-4');
+        figure.classList.add('card', 'col-4');
         const h2 = document.createElement('h2');
         h2.classList.add('card-title', 'text-center');
         h2.textContent = title;
