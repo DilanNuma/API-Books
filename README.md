@@ -2,7 +2,7 @@ API-BOOKS
 It is a software with typescript that allows consuming an API of books, where it is possible to processes of query, insertion, update and deletion of data,
 also sending params and / or query params, headers. For the elaboration of this software, classes, interfaces and the best programming practices were used.
 
-The software has a login where you must enter the username and password provided by the TL, Administrator Profile (email:  password:C0ntr4S3gu++r4). 
+The software has a login where you must enter the username and password provided by the TL, Administrator Profile (email:  password: C0ntr4S3gu++r4). 
 provided by the TL, Administrator Profile (email: prueba@prueba.pru password:C0ntr4S3gu++r4)
 
 Once logged in, the main page has a nav where there is an anchor element “a” called “books” that redirects to the location where the added books are located, and an exit button to leave this interface and redirect to the login.
